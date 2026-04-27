@@ -12,8 +12,6 @@ The dashboard helps analyze:
 - Processing fees and stamp charges  
 - IRR performance metrics 
 
-An interactive Power BI dashboard analyzing finance business data across regions, branches, and products — tracking loan amount, agreements, fees, and IRR performance.
-
 
 ## Visuals Included
 
@@ -59,4 +57,5 @@ An interactive Power BI dashboard analyzing finance business data across regions
 ## Author
 
 Tanishq Solanki
+
 Aspiring Data Analyst
