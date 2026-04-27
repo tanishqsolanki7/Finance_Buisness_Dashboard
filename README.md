@@ -10,7 +10,7 @@ The dashboard helps analyze:
 - Product-wise sales contribution  
 - Loan amount trends  
 - Processing fees and stamp charges  
-- IRR performance metrics 
+- IRR(Internal Rate of Return) performance metrics 
 
 
 ## Visuals Included
@@ -51,11 +51,10 @@ The dashboard helps analyze:
 
 ## Dashboard Preview
 
-
+<img width="1566" height="806" alt="Screenshot 2026-04-27 144419" src="https://github.com/user-attachments/assets/e6ad3d40-69c5-48e4-abf2-71971b25f2ea" />
 
 
 ## Author
 
 Tanishq Solanki
-
 Aspiring Data Analyst
